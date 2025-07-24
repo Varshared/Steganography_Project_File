@@ -18,7 +18,6 @@ Steganography/
     ├── main.py
     └── stego.py
 
-
 ---
 
 ## Requirements
@@ -26,7 +25,7 @@ Steganography/
 - Python 3.x
 - Pillow
 - tkinter
-- 
+  
 --
 
 ## How to Run
