@@ -26,19 +26,14 @@ Steganography/
 - Python 3.x
 - Pillow
 - tkinter
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
+- 
 --
 
 ## How to Run
 
 ```bash
 Python3 main.py
-
+```
 --
 
 ## Features
